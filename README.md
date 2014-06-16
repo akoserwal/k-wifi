@@ -10,3 +10,13 @@ This above ".bat" file will allow you to perform same task.
 
 Right click over the file and run as administrator.
 It will ask for ssid and key to create wifi hotspot.
+
+Use k-wifi.bat with following steps:
+
+1.Control Panel->Network Sharing Center-> Change adapter settings.
+#Right click on Local Area Connection-> Properties->Sharing
+
+Tick:Allow other network users to connect through this computer’s internet connection
+Under “Home networking connection” Select
+
+“ Local Area Connection*18 0r 13..n” or given connection name in front of your created ssid!!
