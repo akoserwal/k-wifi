@@ -11,7 +11,7 @@ This above ".bat" file will allow you to perform same task.
 Right click over the file and run as administrator.
 It will ask for ssid and key to create wifi hotspot.
 
-Use k-wifi.bat with following steps:
+Use k-wifi.bat with following steps:(only once)
 
 1.Control Panel->Network Sharing Center-> Change adapter settings.
 
